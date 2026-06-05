@@ -1,0 +1,4 @@
+model:
+  name: mock-llm
+security:
+  enable_filter: true
